@@ -1,8 +1,8 @@
 # -*- coding: UTF-8 -*-
 # by rhmpz
-# @Time : 2020/10/21 12:07
+# @Time : 2020/10/24 19:50
 # @Author : RhmpzYYX
-# @File : change_step.py
+# @File : randomstep.py
 import requests
 import json
 import hashlib
